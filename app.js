@@ -39,3 +39,7 @@ scrollLinks.forEach((link) => {
     barBtn.classList.toggle('rotate');
   });
 });
+
+
+const date = document.getElementById('date');
+date.innerHTML = new Date().getFullYear();

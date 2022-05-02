@@ -323,7 +323,41 @@ Contact
 
 .contact-center {
   width: 90vw;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin: 0 auto;
   max-width: 1170px;
+  letter-spacing: 2px;
 }
+
+.contact-center h3{
+  color: #ed8d50;
+  text-transform: capitalize;
+  
+}
+.contact-center p{
+  color: #e8b58e;
+}
+/* 
+==============
+Footer
+==============
+ */
+
+ .footer{
+   background: #211818;
+   display: grid;
+   place-items: center;
+   padding-bottom: 2rem;
+   
+ }
+
+ .social-icon{
+   background: transparent;
+   color:#f0d2ab;
+   margin: 10px;
+ }
+
+ .footer p{
+   color:#d7d3ce;
+   letter-spacing: 2px;
+ }
