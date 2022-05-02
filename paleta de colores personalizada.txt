@@ -1,0 +1,43 @@
+Paleta de 5 colores
+
+#211818
+#b04b2a
+#758c7e
+#e39668
+#f3eee8
+
+Paleta de 10 colores
+
+#271918
+#c34c28
+#67735b
+#43a1a9
+#e78a53
+#a9a091
+#e3b592
+#aad1db
+#f2d6bd
+#fcfafa
+
+Paleta de 20 colores
+
+#251818
+#54605d
+#c74b25
+#6b7d52
+#47a2a4
+#b57c6e
+#ed8d50
+#ada38f
+#9cb8c8
+#a3c8a9
+#e8b58e
+#a1d3e1
+#d7d3ce
+#f0d2ab
+#cbddee
+#c0f2d2
+#ffdacf
+#cbf2fd
+#faefe1
+#feffff
